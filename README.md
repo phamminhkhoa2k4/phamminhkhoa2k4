@@ -27,21 +27,14 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-🔭 I’m currently working on ...
+🔭 I’m currently working on my home.
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning CTU.
 
-👯 I’m looking to collaborate on ...
+💬 Ask me about programing.
 
-🤔 I’m looking for help with ...
+📫 How to reach me: <a href="mailto:khoapham280@gmail.com">at here</a>.
 
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
 
 
  </div>
@@ -63,8 +56,8 @@ Here are some ideas to get you started:
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,angular,nodejs,express,nestjs,bun" />
+    <img src="https://skillicons.dev/icons?i=adroidstudio,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql,flask" /><br>
 </div>
 
 <br/>
