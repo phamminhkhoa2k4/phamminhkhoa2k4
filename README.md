@@ -56,8 +56,11 @@ Here are some ideas to get you started:
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,angular,nodejs,express,nestjs,bun,cs,dart,docker,dotnet,flutter,go,graphql,java,jenkins,jest,md,materialui,mongodb,mysql,nginx,npm,php,pnpm,yarn,postgres,postman,prisma,redis,sass,spring,sqlite,sequelize" />
-    <img src="https://skillicons.dev/icons?i=adroidstudio,figma,firebase,git,github,idea,visualstudio,vite,vscode,webstorm" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,dart,go,php" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,react,redux,nextjs,angular,nodejs,express,nestjs,bun,jest,spring,dotnet,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=adroidstudio,figma,idea,visualstudio,vscode,webstorm,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,md,nginx,npm,pnpm,yarn,graphql,vite,sequelize,prisma," /><br>
 </div>
 
 <br/>
