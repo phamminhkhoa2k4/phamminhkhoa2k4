@@ -56,8 +56,8 @@ Here are some ideas to get you started:
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,angular,nodejs,express,nestjs,bun" />
-    <img src="https://skillicons.dev/icons?i=adroidstudio,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,angular,nodejs,express,nestjs,bun,cs,dart,docker,dotnet,flutter,go,graphql,java,jenkins,jest,md,materialui,mongodb,mysql,nginx,npm,php,pnpm,yarn,postgres,postman,prisma,redis,sass,spring,sqlite,sequelize" />
+    <img src="https://skillicons.dev/icons?i=adroidstudio,figma,firebase,git,github,idea,visualstudio,vite,vscode,webstorm" /><br>
 </div>
 
 <br/>
