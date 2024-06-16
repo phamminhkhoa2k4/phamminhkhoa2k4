@@ -57,10 +57,11 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,dart,go,php" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,react,redux,nextjs,angular,nodejs,express,nestjs,bun,jest,spring,dotnet,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,react,redux,nextjs,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,jest,spring,dotnet,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=adroidstudio,figma,idea,visualstudio,vscode,webstorm,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,md,nginx,npm,pnpm,yarn,graphql,vite,sequelize,prisma," /><br>
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,md,nginx,npm,pnpm,yarn,graphql,vite,sequelize,prisma" /><br>
 </div>
 
 <br/>
