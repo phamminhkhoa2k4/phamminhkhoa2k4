@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-
+<!--
 <br/><br/>
 
 <hr/>
@@ -88,3 +88,4 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+-->
