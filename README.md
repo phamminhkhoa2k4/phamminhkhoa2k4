@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=phamminhkhoa2k4.phamminhkhoa2k4" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wisdom+A.K.A+MScience!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wisdom+A.K.A+Bryan!;" />
 </h1>
 
 <h2 align="center">A passionate software developer from VINH LONG VN</h2>
@@ -49,6 +49,20 @@ Here are some ideas to get you started:
   <a href="https://wizdom-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+</div>
+
+ <hr/>
+
+<div align="center">
+
+🖥 <a href="https://github.com/phamminhkhoa2k4/khoata-tool">
+<b>Khoata (CLI Quota Monitor)</b></a>  
+> Terminal-based quota tracking tool for developers.
+
+⚡ <a href="https://github.com/phamminhkhoa2k4/first-screen-nvim">
+<b>First Screen Nvim (Neovim plugin)</b></a>  
+> Modern customizable Neovim start screen plugin.
+
 </div>
 
  <hr/>
